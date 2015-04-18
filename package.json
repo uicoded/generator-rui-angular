@@ -47,7 +47,9 @@
     "grunt-contrib-watch": "^0.6.1",
     "load-grunt-tasks": "^1.0.0",
     "grunt-rapydscript": "~0.0.1",
-    "mocha": "*"
+    "mocha": "*",
+    "lodash": "^3.7.0",
+    "util": "^0.10.3"
   },
   "peerDependencies": {
     "yo": ">=1.0.0"
